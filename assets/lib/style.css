@@ -1,0 +1,192 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+
+}
+.loo
+{
+	color: white;
+}
+.he
+{
+	
+	
+}
+.navi
+{
+		
+	background-color: #2d3e50;
+	border-left: transparent;
+	border-right:  transparent;
+	border-top: transparent;
+	border-bottom:  transparent;
+}
+.jumb2
+{
+	background-color: #7e8c8d;
+	/*padding-bottom: 60%;*/
+	margin-top: -40px;
+}
+.clo
+{
+	color: white;
+	font-size: 20px;
+}
+.clo2
+{
+	color: #0da3bb;
+	font-size: 20px;
+}
+.clo3
+{
+	color: #0da3bb;
+	font-size: 30px;
+}
+.jumb3
+{
+	background-color: #17a086;
+	/*padding-bottom: 60%;*/
+	margin-top: -40px;
+}
+.jumna
+{
+	background-color: #2d3e50;
+	
+	/*padding-bottom: 60%;*/
+	/*margin-top: -50px;*/
+	margin-bottom: -40px;
+	font-size: 20px;
+
+}
+.line
+{
+	border-left: 4px solid #2d3e50;
+	padding: 5px;
+
+}
+.tex
+{
+font-family: 'Exo', sans-serif;
+	color: white;
+	font-size: 35px;
+	letter-spacing: 5px;
+	word-spacing: 4px;
+}
+
+
+.jumb1
+{
+	background-color: #0da3bb;
+	/*padding-bottom: 30%;*/
+	margin-top: -20px;
+}
+img
+{	
+	border: 5px solid #2f3954;
+	margin-left: 20px;  
+	border-radius: 50%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+	font-size: 20px;
+	font-family: 'Reem Kufi', sans-serif;
+	color: white;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px dotted #ddd;
+}
+.pm
+{
+	height: 30px;
+	background-color: #6d7070;
+}
+
+.pro1
+{	
+	height: 100px;
+	width: 90%;
+	font-family: 'Antic';
+	font-size: 18px;
+	text-align: left;
+	padding-left: 10px;
+	background-color: #34495e;
+}
+.pro2
+{
+	font-family: 'Antic';
+	font-size: 18px;
+	text-align: left;
+	padding-left: 10px;
+
+	background-color: #0da3bb;
+}
+.pro3
+{
+	font-family: 'Antic';
+	font-size: 18px;
+	text-align: left;
+	padding-left: 10px;
+	background-color: #17a086;
+}
+.cp
+{
+	padding: 10px;
+	padding-right:20px;
+}
+.btnn
+{
+	border-radius: 10px ;
+	margin-left:380px; 
+	background-color: #2d3e50;
+	border: 0px solid #2d3e50;
+}
+.navl
+{
+		background-color: black;
+}
+.navi2
+{
+	margin-top: 100px;
+	padding-top: 10px;
+}
+.ll
+{
+font-size: 16px;
+
+}
+.lol
+{	
+	padding-left: 350px;
+	text-decoration: none;
+	color: #34495e;
+}
+h3,h4,h5,p
+{
+	color: white;
+}
+p
+{
+	 font-family: 'Mitr', sans-serif;
+	}
+	h3,h4,h5
+	{
+		font-family: 'Antic', sans-serif;
+	}
+	.anc
+	{
+		color: black;
+		text-decoration: none;
+	}
+	a
+	{
+		color: white;
+		text-decoration: none;
+	}
